@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5048816fba245fa41aabc989d46a049a
-timeCreated: 1500987220
+guid: 7ef24582b49b57d44ab6a22834857171
+timeCreated: 1500984166
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Book
+    4300000: Center_Bench2
   materials:
     importMaterials: 1
     materialName: 0

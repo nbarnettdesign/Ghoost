@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5048816fba245fa41aabc989d46a049a
-timeCreated: 1500987220
+guid: 1947de67ca49fbb4cb8c3199fbd7babe
+timeCreated: 1500981609
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Book
+    4300000: Kitchen_Bench2
   materials:
     importMaterials: 1
     materialName: 0

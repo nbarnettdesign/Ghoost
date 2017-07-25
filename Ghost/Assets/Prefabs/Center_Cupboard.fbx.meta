@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5048816fba245fa41aabc989d46a049a
-timeCreated: 1500987220
+guid: 5db402fe6538e824aaa26af46e40ab8a
+timeCreated: 1500988034
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Book
+    4300000: Center_Cupboard1
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5048816fba245fa41aabc989d46a049a
-timeCreated: 1500987220
+guid: edec2046650f78a468e77e6b5393787b
+timeCreated: 1500989118
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Book
+    4300000: BookCase2
   materials:
     importMaterials: 1
     materialName: 0
