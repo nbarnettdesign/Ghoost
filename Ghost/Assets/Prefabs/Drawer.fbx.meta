@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b2aaac36cd963f9419b1a9014f27e018
-timeCreated: 1500879951
+guid: 3b9c67ab1bdb3814ba9f3f7c15991962
+timeCreated: 1500942122
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCylinder2
+    4300000: Drawer2
   materials:
     importMaterials: 1
     materialName: 0
